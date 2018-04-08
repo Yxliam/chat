@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+a{
+    text-decoration: none;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.clearfix{*height:1%;};
+$commonColor:#26a2ff;
